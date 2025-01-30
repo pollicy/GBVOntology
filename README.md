@@ -105,13 +105,21 @@ Here are some example SPARQL queries to get started:
     If you use this ontology in your research or projects, please cite it as follows:
 
     ```
-    Gender-Based Violence Lexicon Ontology. (2025). GitHub repository. https://github.com/pollicy/GBVOntology
+    Kakande, A. (2025). Gender-Based Violence Lexicon Ontology. Retrieved from https://github.com/pollicy/GBVOntology
     ```
+    You can also cite it using the following BibTeX entry for LaTeX:
 
-    ## Contact
+    ```bibtex
+    @misc{kakande2025gender,
+        author = {Arthur Kakande},
+        title = {Gender-Based Violence Lexicon Ontology},
+        year = {2025},
+        howpublished = {\url{https://github.com/pollicy/GBVOntology}},
+    }
+    ```
 
     For questions, collaborations, or feedback, please reach out to:
 
-    - **Pollicy**: info@pollicy.org
+    - **Project Maintainer**:  [Arthur Kakande](https://www.linkedin.com/in/arthur-kakande-9b2870b9/)
 
     Thank you for using the Gender-Based Violence Lexicon Ontology! Together, we can build tools and knowledge to combat gender-based violence and create a safer world for all.
