@@ -10,7 +10,7 @@ This ontology captures:
 - **GBV-related terms** (e.g., "malaya", "prostitute" "slut-shaming") and their meanings.
 - **Forms of violence** (e.g., psychological, verbal, physical).
 - **Implications** of GBV (e.g., emotional trauma, social stigma).
-- **Targeted genders** (e.g., women, non-binary individuals).
+- **Targeted gender(s)** (e.g., women, men).
 - **Geographical context** (e.g., countries, regions, continents).
 - **Legal frameworks and policies** addressing GBV (e.g., laws, enforcement agencies, effectiveness ratings).
 
