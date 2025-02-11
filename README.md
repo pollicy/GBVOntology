@@ -53,7 +53,7 @@ The ontology is built using **OWL (Web Ontology Language)** and is designed to b
 The ontology is available in **OWL format** and can be downloaded from the [Releases](https://github.com/pollicy/GBVOntology) section.
 
 ### Explore the Ontology
-- Use tools like **[Protégé](https://protege.stanford.edu/)** or **[WebVOWL](http://vowl.visualdataweb.org/)** to visualize and explore the ontology.
+- Use tools like **[Protégé](https://protege.stanford.edu/)** or **[WebVOWL](https://service.tib.eu/webvowl/)** to visualize and explore the ontology.
 - Load the ontology into a **triplestore** (e.g., Apache Jena, Stardog) for querying and integration with other datasets.
 
 ### Extend the Ontology
