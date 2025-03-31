@@ -123,3 +123,6 @@ Here are some example SPARQL queries to get started:
     - **Project Maintainer**:  [Arthur Kakande](https://www.linkedin.com/in/arthur-kakande-9b2870b9/)
 
     Thank you for using the Gender-Based Violence Lexicon Ontology! Together, we can build tools and knowledge to combat gender-based violence and create a safer world for all.
+
+    ## This resource is nolonger maintained here!! Access a more upto date version of the resource in the [**repository here!**](https://github.com/ArthurKakande/GBV_Ontology)
+
