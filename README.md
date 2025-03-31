@@ -2,7 +2,7 @@
 
 Welcome to the **Gender-Based Violence Lexicon Ontology** repository! This ontology provides a structured and comprehensive framework for understanding and analyzing terms, concepts, and legal frameworks related to gender-based violence (GBV). It is designed to support researchers, policymakers, activists, and developers in building knowledge graphs, applications, and tools to address GBV.
 
-The preferred prefix for this ontology is **ogbv: www.gbvbase.com**
+## This resource is nolonger maintained here!! Access a more upto date version of the resource in the [repository here](https://github.com/ArthurKakande/GBV_Ontology)
 
 ## Overview
 
